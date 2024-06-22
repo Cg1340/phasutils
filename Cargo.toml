@@ -1,0 +1,10 @@
+[package]
+name = "phasutils"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chen Siyuan <ChenSiyuan-2009@outlook.com>"]
+license = "GPL-3"
+description = "为 Steam 游戏恐鬼症设计的实用工具"
+
+
+[dependencies]
