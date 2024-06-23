@@ -8,3 +8,7 @@ description = "为 Steam 游戏恐鬼症设计的实用工具"
 
 
 [dependencies]
+cfg-if = "1.0.0"
+rdev = "0.5.3"
+sfml = "0.21.0"
+windows = { version = "0.57.0", features = ["Win32_UI_WindowsAndMessaging"] }
